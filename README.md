@@ -8,7 +8,7 @@
 * Icons: Numix-Circle [GTK2/3]
 * Desktop: CBlue
 * Terminal: Gnome Terminal
-* WallPaper: Minimalist![Wallpaper_Desk.png](path)
+* WallPaper: Minimalist
 * Conky: Simple Config
 
 ##### Office Tools
@@ -31,3 +31,7 @@
 ##### Web browser
 
 * Chromium
+
+##### Desktop Appearance
+
+![Wallpaper_Desk.png](https://github.com/nemanjadjekic/Linux-DE-Tweaks/blob/master/Wallpaper_Desk.png)
