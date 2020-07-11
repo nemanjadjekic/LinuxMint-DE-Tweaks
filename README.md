@@ -10,6 +10,7 @@
 * Terminal: Gnome Terminal
 * WallPaper: Minimalist
 * Conky: Simple Config
+* Dock: Plank
 
 ##### Office Tools
 
