@@ -23,7 +23,7 @@
 
 ##### Note taking
 
-* BoostNote (Old Application)
+* BoostNote
 
 ##### Version control
 
@@ -32,6 +32,7 @@
 ##### Web browser
 
 * Chromium
+* Firefox
 
 ##### Desktop Appearance
 
